@@ -133,6 +133,7 @@ The application will:
 Press Ctrl+C to terminate the program and trigger the cleanup procedure.
 
 ## Project Structure
+```
 SilkVeil/
 ├── main.py
 ├── Mac.py
@@ -140,7 +141,7 @@ SilkVeil/
 ├── prints.py
 ├── torrc.sample.in
 └── README.md
-
+```
 main.py
 
 Coordinates the application lifecycle, signal handling, setup, cleanup, and execution flow.
